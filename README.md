@@ -1,7 +1,8 @@
-## Hi there 👋,Harsh
-I am currently studying Data Analytics and building my skills in data analysis, visualization, and problem-solving.
-
-## Skills
+## Hi there 👋,i'm Harsh
+I am currently studying Data Analytics and building my skills in data analysis, visualization, and problem-solving.  
+I enjoy learning how data can be used to find patterns, solve problems, and support better decisions.  
+At the moment, I am improving my knowledge of Python, SQL, Excel, and other data tools through study and practice.  
+I am also using GitHub to share my work, projects, and progress as I continue learning.## Skills
 - Python
 - SQL
 - Excel
